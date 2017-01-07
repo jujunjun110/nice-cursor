@@ -5,9 +5,9 @@ if (typeof AFRAME === 'undefined') {
 }
 
 /**
- * Example component for A-Frame.
+ * Nice Cursor component for A-Frame.
  */
-AFRAME.registerComponent('example', {
+AFRAME.registerComponent('nice-cursor', {
   schema: { },
 
   /**
